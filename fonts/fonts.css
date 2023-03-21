@@ -1,0 +1,36 @@
+@font-face{
+    font-family: "everettRegular";
+    src: url(./TWKEverett-Regular.otf);
+}
+@font-face{
+    font-family: "everettBold";
+    src: url(./TWKEverett-Bold.otf);
+}
+@font-face{
+    font-family: "gallery";
+    src: url(./GalleryModern.otf);
+}
+@font-face{
+    font-family: "openSansRegular";
+    src: url(./OpenSans-Regular.ttf);
+}
+@font-face{
+    font-family: "openSansBold";
+    src: url(./OpenSans-Bold.ttf);
+}
+@font-face{
+    font-family: "openSansSemiBold";
+    src: url(./OpenSans-SemiBold.ttf);
+}
+@font-face{
+    font-family: "playBold";
+    src: url(./PlayfairDisplay-Bold.ttf);
+}
+@font-face{
+    font-family: "playRegular";
+    src: url(./PlayfairDisplay-Regular.ttf);
+}
+@font-face{
+    font-family: "playSemiBold";
+    src: url(./PlayfairDisplay-SemiBold.ttf);
+}
